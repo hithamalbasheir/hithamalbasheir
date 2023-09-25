@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hithamalbasheir
+- 👋 Hi, I’m Hitham Elbasheir
 - 👀 I’m interested in Mobile Development / Machine Learning - Computer vision
-- 🌱 I’m currently learning Android / ML
+- 🌱 I’m currently learning Android/ ML/ DS&A
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me hithambasheir@gmail.com
 
